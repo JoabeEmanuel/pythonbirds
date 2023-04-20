@@ -25,3 +25,4 @@ if __name__ == '__main__':
     print(id(p))
     print(p.cumprimentar())
     print(p.nome)
+    print(p.idade)
